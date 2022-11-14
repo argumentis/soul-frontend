@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soul-frontend/static/css/main.c7d61221.css",
+    "main.js": "/soul-frontend/static/js/main.ee78506b.js",
+    "index.html": "/soul-frontend/index.html",
+    "main.c7d61221.css.map": "/soul-frontend/static/css/main.c7d61221.css.map",
+    "main.ee78506b.js.map": "/soul-frontend/static/js/main.ee78506b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d61221.css",
+    "static/js/main.ee78506b.js"
+  ]
+}
