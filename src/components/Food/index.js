@@ -4,12 +4,16 @@ import React from 'react'
 // material ui
 import { makeStyles } from '@material-ui/core/styles'
 
+// category
+import Category from './Category'
+
 const useStyles = makeStyles(() => ({
   root: {
     display: 'flex',
-    height: '100vh',
+    flexDirection: 'column',
     width: '100%',
-    color: 'red'
+    color: 'red',
+    border: '1px solid red'
   }
 }))
 
@@ -18,7 +22,8 @@ const Food = () => {
 
   return (
     <div className={classes.root}>
-      Food
+      food
+      <Category/>
     </div>
   )
 }
