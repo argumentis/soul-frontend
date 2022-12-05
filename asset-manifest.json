@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/soul-frontend/static/css/main.c7d61221.css",
-    "main.js": "/soul-frontend/static/js/main.ee78506b.js",
+    "main.css": "/soul-frontend/static/css/main.d4974ad6.css",
+    "main.js": "/soul-frontend/static/js/main.90509797.js",
     "index.html": "/soul-frontend/index.html",
-    "main.c7d61221.css.map": "/soul-frontend/static/css/main.c7d61221.css.map",
-    "main.ee78506b.js.map": "/soul-frontend/static/js/main.ee78506b.js.map"
+    "main.d4974ad6.css.map": "/soul-frontend/static/css/main.d4974ad6.css.map",
+    "main.90509797.js.map": "/soul-frontend/static/js/main.90509797.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7d61221.css",
-    "static/js/main.ee78506b.js"
+    "static/css/main.d4974ad6.css",
+    "static/js/main.90509797.js"
   ]
 }
