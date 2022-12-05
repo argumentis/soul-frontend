@@ -13,7 +13,8 @@ const useStyles = makeStyles(() => ({
   root: {
     display: 'flex',
     flexGrow: 1,
-    maxWidth: 768
+    maxWidth: 768,
+    overflow: 'auto',
   }
 }))
 
